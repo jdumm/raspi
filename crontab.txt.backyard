@@ -1,0 +1,1 @@
+0 7,8,9,16,17,18 * * * python /home/pi/projects/timelapse/pi_camera_options.py > /dev/null 2>&1
